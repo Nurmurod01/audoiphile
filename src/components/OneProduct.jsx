@@ -17,7 +17,7 @@ export default function OneProduct() {
             balanced depth and precision of 
             studio-quality sound. 
             </p>
-            <Button className='bg-orang hover:bg-[#FBAF85] text-light-gray' width-160px height-48px>See Product</Button>
+            <Button className='bg-orang hover:bg-[#FBAF85] text-light-gray width-[160px] height-12'>See Product</Button>
 
         </div>
         <div className='-order-1 xl:-order-none shrink-0'>

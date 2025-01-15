@@ -11,8 +11,7 @@ const manRope = Manrope({
 
 
 export const metadata = {
-  title: "Audioiphile",
-
+  title: "Audiophile",
   description: "For portfolie",
 };
 
